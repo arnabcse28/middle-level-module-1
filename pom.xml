@@ -8,7 +8,7 @@
   </parent>
   <groupId>com.jenkins.plugin.demo</groupId>
   <artifactId>middle-level-1</artifactId>
-  <version>2.0.8-SNAPSHOT</version>
+  <version>3.0.8-SNAPSHOT</version>
   <scm>
     <developerConnection>scm:git:${git.base.url}</developerConnection>
     <tag>HEAD</tag>
@@ -17,12 +17,12 @@
     <dependency>
       <groupId>com.jenkins.plugin.demo</groupId>
       <artifactId>low-level-1</artifactId>
-      <version>2.0.8-SNAPSHOT</version>
+      <version>3.0.8-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.jenkins.plugin.demo</groupId>
       <artifactId>low-level-2</artifactId>
-      <version>2.0.8-SNAPSHOT</version>
+      <version>3.0.8-SNAPSHOT</version>
     </dependency>
   </dependencies>
   <build>
